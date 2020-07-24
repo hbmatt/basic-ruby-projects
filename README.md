@@ -1,1 +1,7 @@
-This is a project from The Odin Project to create a Caesar cipher command line program using Ruby.
+This is a collections of basic Ruby projects from The Odin Project.
+
+##Caesar Cipher
+Created a Caesar cipher command line program using Ruby.
+
+##Sub Strings
+Created a command line program using Ruby that takes a string and dictionary of substrings and lists all substrings found within the original string and how many times they occurred.
