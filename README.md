@@ -1,4 +1,4 @@
-This is a collections of basic Ruby projects from The Odin Project.
+This is a collection of basic Ruby projects from The Odin Project.
 
 ## Caesar Cipher
 Created a Caesar cipher command line program using Ruby.
