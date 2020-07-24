@@ -8,3 +8,6 @@ Created a command line program using Ruby that takes a string and dictionary of 
 
 ## Stock Picker
 Created a stock picker command line program using Ruby.
+
+## Bubble Sort
+Created a bubble sort command line program for arrays using Ruby.
